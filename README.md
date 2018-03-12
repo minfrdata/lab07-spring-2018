@@ -22,7 +22,7 @@ Once the cluster is in "Waiting" mode (should only take a few minutes), please `
 ```
 sudo yum install -y git
 git clone https://github.com/gu-anly502/lab07-spring-2018.git
-cd lab07-spring-2018.git
+cd lab07-spring-2018
 bash post-startup-ipython-jupyter-py2-setup.sh 
 ```
 
