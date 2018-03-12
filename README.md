@@ -85,8 +85,11 @@ Running this cell will create the `SparkContext` and `SparkSession` objects insi
 
 ## Lab Exercises
 
-** will work through three ipybn notebooks - need to finish this text
+There are three Jupyter Notebooks in the repository. We will quickly discuss in class and then walk through them. These are all about RDD operations:
 
+* `shakespeare.ipynb`
+* `quazyilx.ipynb`
+* `forensicswiki.ipynb`
 
 
 ## Other Ways to Connect to Spark
